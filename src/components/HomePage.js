@@ -12,7 +12,13 @@ const Homepage = () => {
         <hr className="my-4" />
         <p>Our deals are constantly updated, so check back often and never miss out on a great opportunity to save. Thank you for choosing us as your go-to destination for deals!.</p>
         
-        <Button  href="/deals" variant="outlined">View deals</Button>
+        <Button  href="/griddeal" variant="outlined">View deals</Button>
+        <br>
+        </br>
+        <br>
+        </br>
+        <Button  href="/deals" variant="outlined">Add Deals</Button>
+
       </div>
     </div>
   );
